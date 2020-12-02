@@ -1,0 +1,100 @@
+@charset "utf-8";
+body{
+	text-align: center;
+	background-color: #FFFFFF;
+	font-family:  "Times New Roman";
+	color: #D5B21D;
+	font-size: 1em;
+	margin: 0px;
+}
+.header {
+  width: 30%;
+  margin: 50px auto 0px;
+  background: #393535;
+  text-align: center;
+  border-radius: 10px 10px 0px 0px;
+  padding: 20px;
+}
+form, .content {
+  width: 30%;
+  margin: 0px auto;
+  padding: 20px;
+  border: 1px solid #393535;
+  border-radius: 0px 0px 10px 10px;
+}
+.input-group {
+  margin: 10px 0px 10px 0px;
+}
+.input-group label {
+  display: block;
+  text-align: left;
+  margin: 3px;
+}
+.input-group input {
+  height: 30px;
+  width: 93%;
+  padding: 5px 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid gray;
+}
+.btn {
+  padding: 10px;
+  font-size: 15px;
+  color:#D5B21D;
+  background: #393535;
+  border: none;
+  border-radius: 5px;
+  font-family:"Times New Roman"; 
+}
+.error {
+  width: 92%; 
+  margin: 0px auto; 
+  padding: 10px; 
+  border: 1px solid #a94442; 
+  color: #a94442; 
+  background: #f2dede; 
+  border-radius: 5px; 
+  text-align: left;
+}
+.success {
+  color: #3c763d; 
+  background: #dff0d8; 
+  border: 1px solid #3c763d;
+  margin-bottom: 20px;
+}
+
+
+.logo{
+	position: relative;
+	top: 20px;
+	right: 70px;
+	
+}
+ .h,.s, .a{
+	 margin-bottom: 40px;
+	color:#D5B21D;
+	 font-size: 1.2em;
+	 position: relative;
+	 bottom: 40px;	 
+}
+
+.c,.u{
+	position: relative;
+	 bottom: 30px;	
+}
+
+
+#d1{
+	display: block;
+	
+}
+.d2{
+	margin: 0px;
+	display: block;
+	background-color:#393535;
+}
+.up{
+		position: absolute;
+	margin-left: 600px;
+}

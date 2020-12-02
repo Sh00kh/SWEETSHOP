@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	text-align: center;
+	background-color: #FFFFFF;
+	font-family:  "Times New Roman";
+	color: #D5B21D;
+	font-size: 16px;
+	margin: 0px;
+}
+
+
+.logo{
+	position: relative;
+	top: 20px;
+	right: 70px;
+	
+}
+ .h,.s, .a{
+	 margin-bottom: 40px;
+	color:#D5B21D;
+	 font-size: 20px;
+	 position: relative;
+	 bottom: 40px;	 
+}
+
+.c,.u{
+	position: relative;
+	 bottom: 30px;	
+}
+
+
+footer{
+	margin: auto;
+	display: block;
+	background-color:#2F2B2C;
+
+}
+.up{
+		position: absolute;
+	margin-left: 600px;
+}
+th, td {
+  border-bottom: 1px solid #ddd;
+}
+ button {
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color: #2F2B2C;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+ button:hover {
+  opacity: 0.7;
